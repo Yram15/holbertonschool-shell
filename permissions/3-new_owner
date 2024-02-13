@@ -1,2 +1,2 @@
 #/bin/bash
-dedtheowner
+chown betty hello
