@@ -1,2 +1,2 @@
-#!/hinfbash
-chmod 755 hello
+#!/bin/bash
+touch hello
