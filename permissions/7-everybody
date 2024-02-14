@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod ugo+x hello
+touch hello
+chmod 640 hello
